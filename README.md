@@ -21,4 +21,4 @@
 
 # Implementación de un servidor web Nginx containerizado accesible desde el navegador.
 
-
+# Documentación y soporte: Incluye guías detalladas de configuración y solución de problemas para cada componente del proyecto.
