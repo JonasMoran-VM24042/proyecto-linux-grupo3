@@ -1,5 +1,6 @@
 # Proyecto Linux Grupo 3
-# Descripcion del Proyecto
+
+# Descripcion del Proyecto.
 
 # Este proyecto implementa un servidor Linux automatizado utilizando tecnologías de virtualización, 
 # administración de sistemas y contenedores Docker. El objetivo principal es configurar un entorno funcional 
